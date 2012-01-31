@@ -1,7 +1,12 @@
 # Traveling Elephpant Problem - Remi's Solution
 
 ## Heads up!
-    ** This code is written with one single purpose in mind: provide a winning solution for the Ibuildings TEP contest. It does NOT adhere to proper Design Patterns, Coding Standards, or anything else that makes code maintainable. DO NOT COPY/PASTE ANY OF THIS INTO YOUR OWN CODE AND ASSUME IT MUST BE THE BEST WAY BECAUSE I WROTE IT, OR BECAUSE THE CODE WAS FAST **
+    ** This code is written with one single purpose in mind: provide 
+    a winning solution for the Ibuildings TEP contest. It does NOT 
+    adhere to proper Design Patterns, Coding Standards, or anything
+    else that makes code maintainable. DO NOT COPY/PASTE ANY OF THIS 
+    INTO YOUR OWN CODE AND ASSUME IT MUST BE THE BEST WAY BECAUSE I 
+    WROTE IT, OR BECAUSE THE CODE WAS REPORTEDLY FAST **
 
 
 ## The contest
